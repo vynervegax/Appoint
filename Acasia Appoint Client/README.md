@@ -13,7 +13,7 @@ Download Node.js and npm here: https://nodejs.org/en/
 1. `npm install`
 2. Create a .env file in root project folder
 3. `npm start` 
-4. Go to http://localhost:3000 to see your app.
+4. Go to localhost to see your web app.
 
 ### Build
 `npm run build` and `npm run serve` to run the production version after build.
