@@ -18,8 +18,5 @@ Download Node.js and npm here: https://nodejs.org/en/
 ### Build
 `npm run build` and `npm run serve` to run the production version after build.
 
-### Testing
-The tests are implemented in `src/test` using [Mocha](https://github.com/mochajs/mocha). `npm run test` to run the test files.
-
 ## License
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
