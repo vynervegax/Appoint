@@ -1,3 +1,0 @@
---exit 
---require babel-register 
---timeout 7000
